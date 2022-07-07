@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+}
+.sec-1{
+    display: flex;
+    margin-bottom: 70px;
+}
+.half-width{
+   max-width:50%;
+   padding-left: 10%;
+}
+.half-width img{
+   height:auto;
+   width: 100%;
+}
+a{
+    color: white;
+    background:red ;
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 5px;
+ }
+
+ /*part 3 css*/
+ div{
+    text-align: center;
+ }
